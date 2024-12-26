@@ -1,1 +1,31 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 in master
+=======
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+in master before stash apply
+=======
+in master
+after commit
+>>>>>>> Stashed changes
+=======
+in master
+after commit
+>>>>>>> Stashed changes
+=======
+in master
+after commit
+>>>>>>> Stashed changes
+=======
+in master
+after commit
+>>>>>>> Stashed changes
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
